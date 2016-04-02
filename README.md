@@ -2,8 +2,10 @@
 Built using Vagrant and Flask. Allows for FB and G+ account logins.
 
 # Screenshots
-
-
+![Restaurants](/screenshots/restaurants.png)
+![Menu](/screenshots/menu.png)
+![new](/screenshots/new.png)
+![editable](/screenshots/editable.png)
 # Instructions
 
 ## Run the virtual machine!
